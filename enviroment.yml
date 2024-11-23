@@ -1,0 +1,8 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/pocho/anaconda3/envs/cookiecutter-personal
